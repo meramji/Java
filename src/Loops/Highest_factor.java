@@ -6,6 +6,7 @@ public class Highest_factor {
     static void main() {
         Scanner sc = new Scanner (System.in);
 
+
         System.out.println("Enter the number");
         int n=sc.nextInt(); //other than itself.
 
