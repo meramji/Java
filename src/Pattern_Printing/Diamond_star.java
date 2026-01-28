@@ -25,7 +25,7 @@ public class Diamond_star {
         }
 
         nsp=1;
-        nst=n+1;
+        nst-=4;
 
         for(int i=1;i<=n;i++){
             for(int j=1;j<=nsp;j++){
